@@ -16,3 +16,5 @@ When you're just starting your financial journey, being "successful" might feel 
 3. Spend less than you earn
 
 "Being financially successful comes down to simple math," said Dominique Broadway, founder of Finances Demystified. "It's important to ensure you are always making more money than you are spending. If you can't increase your income right away, look for areas where you're overspending and cut back."
+
+![finance](https://www.quicken.com/sites/default/files/inquira-files/122486570_XS_0.jpg)
