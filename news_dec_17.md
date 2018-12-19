@@ -14,4 +14,8 @@ Once they got the system of feedback vibrations, participants were able to carry
 
 "Establishing a sense of agency for these devices will help amputees intrinsically feel in control of their artificial limbs, a key aspect of user acceptance ," Marasco and his colleagues reported in the journal Science translational Medicine.
 
-In the near future, the authors wrote, this approach could inspire wearable or other feedback systems that might allow amputees to guide and control their prosthetic limbs intuitively 
+In the near future, the authors wrote, this approach could inspire wearable or other feedback systems that might allow amputees to guide and control their prosthetic limbs intuitively, restoring the luxury of unconscious movement.
+
+"We're actually able to use the perceptual illusion of movement to provide amputees with the sense that their hand is moving in very complex and naturalistic ways," Marasco said.
+
+The research team is already exploring ways to expand these techniques to patients who have lost a leg. And they're working to package the system into a prosthesis that would let patients operate the system on a daily basis.
